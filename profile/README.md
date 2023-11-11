@@ -1,7 +1,8 @@
-<h1 align="center">
-  <br>
+<div align="center">
   <a href="https://discord.gg/uUFGqVFenD"><img src="../assets/pfp.jpg" height="200" alt="Lightning Logo" style="border-radius:50%"></a>
+</div>
 
+<h1 align="center">
   <br>
   Welcome to the Lightning Organization!
 </h1>
