@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="../assets/pfp.jpg" height="200" alt="Lightning Logo" style="border-radius:50%">
-</div>
-
 <h1 align="center">
   <br>
   Welcome to the Lightning Organization!
