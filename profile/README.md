@@ -9,7 +9,7 @@
 We welcome contributions and collaboration! Feel free to fork any of our repositories, submit issues, or join the conversation in our Discord community.
 
 ## Contact Us
-Have questions or just want to say hi? Reach out to us on Discord: **[Join the Lightning Community](https://discord.gg/cGNFnsXpwZ)**.
+Have questions or just want to say hi? Reach out to us on Discord: **[Join the Airwavy Community](https://discord.gg/cGNFnsXpwZ)**.
 
 ---
 
